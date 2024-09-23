@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(202, 165, 0)
+    
+}
+    
+
+.div {
+    width: 365px;
+    height:365px ;
+    background-color: #297E40;
+    border-radius: 12px;
+   
+}
+
+.div1 {
+    width: 365px;
+    height: 365px;
+    background-color: #8E2877;
+    border-radius: 90px;
+    margin-right: 10px;
+   
+}
+
+.div2 {
+    width:365px ;
+    height: 365px;
+    background-color: #361BA4;
+    border-radius: 20px;
+}
+
+table, tr, td {
+    border: 1px solid; color:rgb(202, 165, 0) ;
+}
